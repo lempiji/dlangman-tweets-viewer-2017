@@ -1,6 +1,6 @@
 # dlangman-tweets-viewer-2017
 
-### D言語くんアドベントカレンダー2017のツイートまとめビューワー
+### D言語くん Update 2017 ビューワー 
 
 [https://lempiji.github.io/dlangman-tweets-viewer-2017/](https://lempiji.github.io/dlangman-tweets-viewer-2017/)
 
