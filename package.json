@@ -2,7 +2,7 @@
   "name": "dlangman-tweets-viewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lempiji.github.io/dlangman-tweets-viewer",
+  "homepage": "https://lempiji.github.io/dlangman-tweets-viewer-2017/",
   "dependencies": {
     "material-ui": "^0.19.4",
     "react": "^16.2.0",
